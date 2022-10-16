@@ -123,8 +123,6 @@ QGroupBox::indicator
 }
 
 QGroupBox::indicator:unchecked,
-QCheckBox::indicator:unchecked:hover,
-QCheckBox::indicator:unchecked:pressed,
 QTreeView::indicator:unchecked:hover,
 QTreeView::indicator:unchecked:pressed,
 QGroupBox::indicator:unchecked:hover,
@@ -133,9 +131,6 @@ QGroupBox::indicator:unchecked:pressed
     border: none;
 }
 
-QCheckBox::indicator:checked:hover,
-QCheckBox::indicator:checked:focus,
-QCheckBox::indicator:checked:pressed,
 QTreeView::indicator:checked:hover,
 QTreeView::indicator:checked:focus,
 QTreeView::indicator:checked:pressed,
