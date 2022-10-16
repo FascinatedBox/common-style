@@ -114,7 +114,12 @@ QGroupBox::title
     padding-right: 0.2em;
 }
 
-QCheckBox::indicator,
+QCheckBox::indicator
+{
+    width: 1.1em;
+    height: 1.1em;
+}
+
 QTreeView::indicator,
 QGroupBox::indicator
 {
