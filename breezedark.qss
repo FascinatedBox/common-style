@@ -74,6 +74,7 @@ QCheckBox
     outline: none;
     color: #eff0f1;
     margin-bottom: 0.09em;
+    margin-left: 1px;
     opacity: 200;
 }
 
